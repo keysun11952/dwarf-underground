@@ -13,6 +13,6 @@
 .DS_Store
 .env
 npm-debug.log*
+npm-error.log*
 yarn-debug.log*
 yarn-error.log*
-
